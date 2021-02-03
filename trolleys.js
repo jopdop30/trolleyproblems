@@ -9,18 +9,18 @@ var productions = {
         ["SPECIFIC_PERSON", " clutching ", "THING"]
     ],
     "THING": [
-        ["the arc of the covenant"],
-        ["the only copy of a book that explains how to correctly resolve all trolley problems"],
+        ["the coffee mug Mr Gault lost"],
+        ["James\' calculator"],
         ["the Mona Lisa"],
-        ["an exact molecular-level copy of the Mona Lisa"],
-        ["the only existing copy of Kant's \"Groundwork of the Metaphysic of Morals\""],
-        ["the only existing copy of Bentham's \"The Principles of Morals and Legislation\""],
+        ["the box containing all of the year 12 jerseys"],
+        ["the last real-life dinosaur"],
+        ["your phone"],
         ["the only existing copy of the Bible"],
         ["the only existing copy of a formula that grants immortality"],
         ["the only existing copy of the design for a machine that can artificially induce perfect happiness"],
         ["the only existing copy of a definitive proof of the existence of God"],
         ["the only existing copy of a definitive proof of the inexistence of God"],
-        ["the unique device that permits you to unerringly perceive the precise nature of entities potentially imperiled by trolleys"]
+        ["your laptop"]
     ],
     "PERSON": [
         ["a random person"],
@@ -29,11 +29,8 @@ var productions = {
         ["a rapist"],
         ["a clone of Hitler"],
         ["an overweight person"],
-        ["a sentient trolley with feelings and a complex and beautiful inner life"],
-        ["a sentient trolley with an unstillable desire to kill"],
         ["an utilitarian"],
         ["a virtue ethicist"],
-        ["a solipsist"],
         ["a person sexually aroused by the idea of being killed by a trolley"],
         ["a clone of you"],
         ["a kitten"],
@@ -46,18 +43,23 @@ var productions = {
         ["Hitler"],
         ["Stalin"],
         ["Jesus of Nazareth"],
-        ["the author of this generative grammar for trolley problems"],
         ["your ex"],
         ["a version of you that happened to make all the right decisions in their life"],
-        ["Jeremy Bentham"],
-        ["Immanuel Kant"],
-        ["Friedrich Nietzsche"],
         ["the trolley safety inspector whose inattention to detail caused the runaway trolley"],
         ["the trolley safety inspector whose inattention to detail - caused by grief over the recent death of his wife - caused the runaway trolley"],
         ["the trolley manufacturer executive who decided to, as a cost-cutting measure, leave out safety interlocks that would have prevented this runaway trolley"],
         ["the trolley manufacturer executive who decided to, as a cost-cutting measure in a last-ditch attempt to save her struggling company employing thousands of people, leave out safety interlocks that would have prevented this runaway trolley"],
         ["Nizzagrallaaf, a malicious imp that causes runaway trolleys"],
-        ["the villain who set the trolley in motion with murderous intent"]
+        ["the villain who set the trolley in motion with murderous intent"],
+        ["Brooke"],
+        ["Tylah"],
+        ["Kirsten"],
+        ["Hayley"],
+        ["James"],
+        ["Mr Gualt"],
+        ["Bao"],
+        ["Nicholas"],
+        ["Angus"]
     ]
 };
 
